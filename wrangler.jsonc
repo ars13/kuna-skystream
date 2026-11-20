@@ -1,7 +1,12 @@
 {
   "name": "kuna-skystream",
+  "main": "worker.js",
   "compatibility_date": "2026-11-01",
   "assets": {
-    "directory": "./public"
-  }
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "kv_namespaces": [
+    { "binding": "CATALOG", "id": "987872e6e68c45e4affe39dae1fa4247" }
+  ]
 }
