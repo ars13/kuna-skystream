@@ -1,3 +1,3 @@
 # KUNA.SKYSTREAM
 
-Лендинг-каталог Starlink. Цены меняются в index.html, блок «НАСТРОЙКИ САЙТА».
+Лендинг-каталог Starlink. Цены меняются в public/index.html, блок «НАСТРОЙКИ САЙТА».
